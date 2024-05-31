@@ -1,10 +1,8 @@
 # dworrels.github.io
 
-Welcome to my personal portfolio! This repository contains the code for my personal website, showcasing my projects, skills, and experiences in the field of computer science.
+Welcome to my personal portfolio! I'm Dean Worrels, a Computer Science student at the University of South Florida with a passion for technology. My portfolio highlights my journey, skills, and projects This repository contains the code for my personal website, showcasing my projects, skills, and experiences in the field of computer science.
 
-Hi, I'm Dean Worrels, a Computer Science student at the University of South Florida with a passion for technology. My portfolio highlights my journey, skills, and projects
-
-Website Features
+WEBSITE FEATURES:
 
 Home Page: Overview of who I am and my background.
 
@@ -18,7 +16,7 @@ Contact: Information on how to reach me.
 
 Feel free to explore and reach out!
 
-Contact
+CONTACT
 
 Feel free to reach out to me via:
 
