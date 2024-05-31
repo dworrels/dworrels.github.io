@@ -16,6 +16,9 @@ Contact: Information on how to reach me.
 
 Feel free to explore and reach out!
 
+
+
+
 CONTACT
 
 Feel free to reach out to me via:
