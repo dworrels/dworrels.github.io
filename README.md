@@ -19,6 +19,7 @@ Contact
 Feel free to reach out to me via:
 
 Email: dworrels1@gmail.com
+
 LinkedIn: www.linkedin.com/in/dworrels
 
 
