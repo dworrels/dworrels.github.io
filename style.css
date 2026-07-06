@@ -364,7 +364,7 @@ article .icon {
 .project-img {
     border-radius: 2rem;
     width: 90%;
-    height: 90%;
+    aspect-ratio: 440 / 539;
     object-fit: cover;
 }
 
